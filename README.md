@@ -12,6 +12,7 @@ I strive to learn data science progressively - first focusing on fundamentals to
 - **CURRENTLY WORKING ON:** Focusing on improving my SQL skills and gaining expertise with **Power BI** to create more advanced visualizations.
 - **TOOLSET:** My primary development tools are; Python, SQL, Power BI and Excel.
 - **GET IN TOUCH:** You can contact me via my [LinkedIn](https://www.linkedin.com/in/shubhamchauhan-375890202/) or by exploring my GitHub repositories (links below).
+- **Open To:** Internship opportunities , Discussing data trends or collaborating on interesting dataset projects.
 
 ---
 
