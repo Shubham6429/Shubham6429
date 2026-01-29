@@ -6,7 +6,7 @@ I strive to learn data science progressively - first focusing on fundamentals to
 
 ---
 
-## 📝 README RELOADING
+## 🚀 The Current Path
 
 - **WHO AM I?** I’m just a curious person who loves working on data and developing a solid foundation for analytics and storytelling.
 - **CURRENTLY WORKING ON:** Focusing on improving my SQL skills and gaining expertise with **Power BI** to create more advanced visualizations.
