@@ -1,16 +1,21 @@
-## Hi there 👋
+# Greetings! 👋
 
-<!--
-**Shubham6429/Shubham6429** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Shubham Chauhan**, an aspiring data scientist living in Noida, India.
 
-Here are some ideas to get you started:
+I strive to learn data science progressively - first focusing on fundamentals to become proficient and subsequently leveraging those skills by applying them in real-life situations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📝 README RELOADING
+
+- **WHO AM I?** I’m just a curious person who loves working on data and developing a solid foundation for analytics and storytelling.
+- **CURRENTLY WORKING ON:** Focusing on improving my SQL skills and gaining expertise with **Power BI** to create more advanced visualizations.
+- **TOOLSET:** My primary development tools are; Python, SQL, Power BI and Excel.
+- **GET IN TOUCH:** You can contact me via my [LinkedIn](https://www.linkedin.com/in/shubhamchauhan-375890202/) or by exploring my GitHub repositories (links below).
+
+---
+
+## ⚡ QUICK FACTS
+    • Based in Noida India
+    • Create Value & Clean Insights From Messy Data
+    • Currently exploring Power BI Dashboards & Op Automating via Python
