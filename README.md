@@ -44,21 +44,7 @@ I strive to learn progressively — first understanding the fundamentals deeply 
 
 ---
 
-# 💻 Current Tech Stack
-
-### Languages
-Python • SQL • JavaScript • TypeScript • Java
-
-### AI & Data
-Pandas • NumPy • Scikit-Learn • Power BI • Jupyter • PostgreSQL • MySQL
-
-### Web & Backend
-React • Next.js • FastAPI • Node.js • REST APIs • JWT Authentication
-
-### Databases & Infrastructure
-MongoDB • Redis • Docker • Git • GitHub • Linux
-
-### Currently Exploring
+# 💻 Currently Exploring
 - AI Agents & Multi-Agent Systems
 - LLM Application Development
 - System Design & Software Architecture
