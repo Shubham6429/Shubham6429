@@ -24,9 +24,9 @@ I strive to learn progressively — first understanding the fundamentals deeply 
 
 - **CURRENT INTERESTS:**  
   AI Agents • Generative AI • Backend Engineering • Data Engineering • System Design • Full-Stack Development.
-
-- **GET IN TOUCH:**  
-  You can contact me via my LinkedIn or by exploring my GitHub repositories (links below).
+  
+  - **GET IN TOUCH:**  
+  You can connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamchauhan-375890202/) or explore my GitHub repositories below.
 
 - **OPEN TO:**  
   Internship opportunities, research collaborations, open-source contributions, and discussions around AI, data, and software engineering.
